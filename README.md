@@ -98,6 +98,7 @@ The project utilizes a **Hybrid Rendering Architecture**:
    ```bash
    npm run build
    ```
+Or just install it using the installer
 
 ## 📜 License
 
