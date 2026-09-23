@@ -6,7 +6,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://threejs.org/) [![CesiumJS](https://img.shields.io/badge/CesiumJS-00AAEE?style=for-the-badge&logo=cesium)](https://cesium.com/) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-A high-performance, web-based flight simulator that bridges the gap between **Three.js** high-fidelity 3D modeling and **CesiumJS** global-scale geospatial data. Experience the thrill of piloting an F-15 fighter jet across a real-time, 3D replica of the Earth.
+A high-performance, web-based flight simulator that bridges the gap between **Three.js** high-fidelity 3D modeling and **CesiumJS** global-scale geospatial data. Experience the thrill of piloting an F-15 fighter jet across a real-time, 3D replica of the Earth. Now in EXE form. Download the installer now.
 
 ![Simulator Screenshot](public/assets/images/screenshot.jpg)
 
